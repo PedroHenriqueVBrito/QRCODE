@@ -16,32 +16,23 @@ O projeto também demonstra como solicitar permissão para usar a câmera, naveg
 
 Funcionalidades
 
-•
-Exibição da câmera traseira na primeira tela.
+• Exibição da câmera traseira na primeira tela.
 
-•
-Botão Ler QR CODE para abrir o leitor.
+• Botão Ler QR CODE para abrir o leitor.
 
-•
-Navegação entre duas telas reais.
+• Navegação entre duas telas reais.
 
-•
-Solicitação e tratamento da permissão da câmera.
+• Solicitação e tratamento da permissão da câmera.
 
-•
-Leitura de códigos do tipo QR.
+• Leitura de códigos do tipo QR.
 
-•
-Exibição do tipo e do conteúdo encontrado.
+• Exibição do tipo e do conteúdo encontrado.
 
-•
-Botão para ler outro código.
+• Botão para ler outro código.
 
-•
-Histórico dos QR Codes lidos durante a sessão.
+• Histórico dos QR Codes lidos durante a sessão.
 
-•
-Mensagem de orientação quando a permissão é negada.
+• Mensagem de orientação quando a permissão é negada.
 
 Telas
 
@@ -55,26 +46,19 @@ A segunda tela abre a câmera configurada para procurar somente códigos QR. Qua
 
 Tecnologias utilizadas
 
-•
-React Native
+• React Native
 
-•
-TypeScript
+• TypeScript
 
-•
-Expo Snack
+• Expo Snack
 
-•
-Expo SDK 54
+• Expo SDK 54
 
-•
-Expo Camera
+• Expo Camera
 
-•
-React Navigation
+• React Navigation
 
-•
-Native Stack Navigator
+• Native Stack Navigator
 
 Dependências
 
@@ -84,20 +68,16 @@ JSON
 
 
 {
-  "expo-camera": "~17.0.7",
-  "@react-navigation/native": "^7.0.0",
-  "@react-navigation/native-stack": "^7.0.0",
-  "react-native-screens": "~4.16.0",
-  "react-native-safe-area-context": "~5.6.0"
+  "expo-camera": "~17.0.10",
+    "@react-navigation/native": "^7.0.0",
+    "@react-navigation/native-stack": "^7.0.0",
+    "react-native-screens": "~4.16.0",
+    "react-native-safe-area-context": "~5.6.0"
 }
 
 
-
-No Expo Snack, selecione o SDK 54 e adicione as dependências pela aba Dependencies. Caso o Snack sugira versões compatíveis, aceite as versões indicadas para o SDK escolhido.
-
 Estrutura do projeto
 
-Plain Text
 
 
 App.tsx
@@ -110,48 +90,33 @@ README.md
 
 Responsabilidade dos arquivos
 
-•
-App.tsx: configura a navegação entre as telas.
+• App.tsx: configura a navegação entre as telas.
 
-•
-HomeScreen.tsx: mostra a câmera normal e o botão Ler QR CODE.
+• HomeScreen.tsx: mostra a câmera normal e o botão Ler QR CODE.
 
-•
-ScannerScreen.tsx: solicita a permissão, lê os QR Codes e mostra o histórico.
+• ScannerScreen.tsx: solicita a permissão, lê os QR Codes e mostra o histórico.
 
-•
-README.md: apresenta as informações do projeto.
+• README.md: apresenta as informações do projeto.
 
 Como executar
 
-1.
-Abra o projeto no 
+1. Abra o projeto no Expo Snack.
 
-Expo Snack.
+2. Confirme que o projeto está usando o Expo SDK 54.
 
-2.
-Confirme que o projeto está usando o Expo SDK 54.
+3. Verifique se as dependências estão instaladas.
 
-3.
-Verifique se as dependências estão instaladas.
+4. Confirme se App.tsx está na raiz do projeto.
 
-4.
-Confirme se App.tsx está na raiz do projeto.
+5. Confirme se HomeScreen.tsx e ScannerScreen.tsx estão dentro da pasta screens.
 
-5.
-Confirme se HomeScreen.tsx e ScannerScreen.tsx estão dentro da pasta screens.
+6. Abra o projeto no celular usando o Expo Go.
 
-6.
-Abra o projeto no celular usando o Expo Go.
+7. Autorize o acesso à câmera.
 
-7.
-Autorize o acesso à câmera.
+8. Toque em Ler QR CODE.
 
-8.
-Toque em Ler QR CODE.
-
-9.
-Aponte a câmera para um QR Code.
+9. Aponte a câmera para um QR Code.
 
 O teste principal deve ser feito em um celular físico, pois o preview web pode não acessar a câmera corretamente.
 
@@ -169,37 +134,20 @@ Porque o QR Code possui correção de erros. Esse recurso permite recuperar part
 
 Integrantes
 
-•
-Pedro Henrique Vieira de Brito
+• Pedro Henrique Vieira de Brito
 
-•
-Lucas José Alves
+• Lucas José Alves
 
-•
-Davi Henrique
+• Davi Henrique
 
-•
-Igor Cerqueira dos Santos
+• Igor Cerqueira dos Santos
 
 Informações do trabalho
 
-Item
-Informação
-Tema
-Câmera e leitura de QR Code
-Plataforma
-Expo Snack
-Versão do Expo
-SDK 54
-Professor
-Prof. Dionésio
-Snack
+Tema: Câmera e leitura de QR Code
+Plataforma: Expo Snack
+Versão do Expo: SDK 54
+Professor: Prof. Dionésio
 
-
-Abrir projeto
-GitHub
-
-
-Abrir repositório
 
 
