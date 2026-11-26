@@ -151,7 +151,7 @@ Plain Text
 
 
 Snack: https://snack.expo.dev/@pedrohvbrito/qrcode
-GitHub: [COLE_AQUI_O_LINK_DO_GITHUB](https://github.com/PedroHenriqueVBrito/QRCODE)
+GitHub: https://github.com/PedroHenriqueVBrito/QRCODE
 
 
 Aluno: Pedro Henrique Vieira de Brito
