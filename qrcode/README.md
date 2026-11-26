@@ -132,7 +132,7 @@ Resposta esperada
 
 Porque o QR Code possui correção de erros. Esse recurso permite recuperar parte das informações que foram perdidas ou danificadas.
 
-Integrantes
+Integrantes:
 
 • Pedro Henrique Vieira de Brito
 
@@ -145,8 +145,11 @@ Integrantes
 Informações do trabalho
 
 Tema: Câmera e leitura de QR Code
+
 Plataforma: Expo Snack
+
 Versão do Expo: SDK 54
+
 Professor: Prof. Dionésio
 
 
