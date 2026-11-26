@@ -144,13 +144,12 @@ Integrantes:
 
 Informações do trabalho
 
-Tema: Câmera e leitura de QR Code
+Tecnologia Utilizada: Câmera e leitura de QR Code
 
 Plataforma: Expo Snack
 
 Versão do Expo: SDK 54
 
 Professor: Prof. Dionésio
-
 
 
