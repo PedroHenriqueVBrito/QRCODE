@@ -154,9 +154,6 @@ Snack: https://snack.expo.dev/@pedrohvbrito/qrcode
 GitHub: https://github.com/PedroHenriqueVBrito/QRCODE
 
 
-Aluno: Pedro Henrique Vieira de Brito
-Tecnologia utilizada: Câmera e leitura de QR Code
-
-
-
+Integrantes: Pedro Henrique Vieira de Brito, Lucas José alves, Davi Henrique e Igor Cerqueira dos Santos
+Tema do app: Câmera e Leitura de QRCODE
 
