@@ -151,21 +151,12 @@ Plain Text
 
 
 Snack: https://snack.expo.dev/@pedrohvbrito/qrcode
-GitHub: COLE_AQUI_O_LINK_DO_GITHUB
+GitHub: [COLE_AQUI_O_LINK_DO_GITHUB](https://github.com/PedroHenriqueVBrito/QRCODE)
 
 
-
-O repositório do GitHub deve conter o código-fonte e este README. Sempre que possível, deixe o repositório público ou compartilhe o acesso com o professor.
-
-Identificação do trabalho
-
-Plain Text
-
-
-Aluno: SEU_NOME_COMPLETO
-Turma: SUA_TURMA
+Aluno: Pedro Henrique Vieira de Brito
 Tecnologia utilizada: Câmera e leitura de QR Code
-Professor: Prof. Dionésio
+
 
 
 
